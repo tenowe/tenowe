@@ -1,3 +1,4 @@
+<h1 align="center">tenowe 👋</h1>
 <p align="center">
   Backend Developer / Node.js & TypeScript
 </p>
